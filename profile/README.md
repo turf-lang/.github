@@ -24,12 +24,12 @@ linker and the runtime, so there is nothing else to install.
 
 ```sh
 # Linux and macOS
-curl -fsSL https://raw.githubusercontent.com/turf-lang/turf-lang/master/scripts/install/install.sh | sh
+curl -fsSL https://turflang.org/install.sh | sh
 ```
 
 ```powershell
 # Windows (PowerShell)
-irm https://raw.githubusercontent.com/turf-lang/turf-lang/master/scripts/install/install.ps1 | iex
+irm https://turflang.org/install.ps1 | iex
 ```
 
 Or use a package manager:
